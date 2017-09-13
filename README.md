@@ -14,6 +14,8 @@ Language Used : Python
 
 Structure of the Code:
 
+The following file find_route.py identifies the shortest path given a weighted graph in the specific format
+
 Uniform Cost Search Algorithm is implemented using python.
 It has the main function which has all the declarations of various of all lists,hashmap and other variables.
 It has other methods which perform various functions and operation of each function is mentioned below :-
